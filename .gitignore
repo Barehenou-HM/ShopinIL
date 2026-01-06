@@ -1,0 +1,54 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.idea/
+app/release
+
+# IDE - Android Studio & IntelliJ
+.idea/
+*.iml
+.gradle/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Build Output
+**/build/
+
+# Kotlin-specific
+/build/
+*.kotlin_module
+
+# Android-specific
+*.apk
+*.aar
+*.ap_
+*.dex
+
+# Proguard / R8 (Keep these if you want to track obfuscation rules)
+# !proguard-rules.pro
+
+# Keystore files (NEVER check these into version control)
+*.jks
+*.keystore
+*.p12
+
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
