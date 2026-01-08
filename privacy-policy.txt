@@ -3,16 +3,16 @@ Privacy Policy
 Last updated: January 8, 2026
 
 Introduction
-This Privacy Policy applies to the ShopinIL mobile application. This application is a simple counter app that increments a number when the user taps on the screen. It does not perform any commercial activity, nor does it facilitate shopping or any other services.
+This Privacy Policy applies to the Increment mobile application. This application is a simple counter app that increments a number when the user taps on the screen. It does not perform any commercial activity, nor does it facilitate shopping or any other services.
 
 Information Collection and Use
-ShopinIL does not collect, store, or transmit any Personal Information. This includes, but is not limited to, your name, email address, physical address, phone number, location data, or device identifiers. Because the application is a simple counter that only responds to screen taps, there are no features that require the input or collection of data.
+Increment does not collect, store, or transmit any Personal Information. This includes, but is not limited to, your name, email address, physical address, phone number, location data, or device identifiers. Because the application is a simple counter that only responds to screen taps, there are no features that require the input or collection of data.
 
 Third-Party Access
 We do not share any information with third parties. This application does not use third-party services such as advertising networks, analytics providers, or social media plugins that could track your activity or collect your data.
 
 Cookies and Tracking
-ShopinIL does not use cookies, web beacons, or any other tracking technologies.
+Increment does not use cookies, web beacons, or any other tracking technologies.
 
 Children's Privacy
 Since this application does not collect any data, it does not knowingly collect information from children under the age of 13.
